@@ -1,0 +1,13 @@
+name: Github Actions DevOps course
+on: push
+jobs:
+  DevOps-course-first-job:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "i run my first ci pipeline"
+      - name: Show uptime
+        run: uptime
+      - name: where i am
+        run: pwd
+      - name: who i am
+        run: whoami
