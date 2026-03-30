@@ -1,7 +1,7 @@
-/roles/nginx-vhosts - папка с описаной ролью, где tasks - задачи, handlers - обработчики, templates - шаблоны
-inventory.ini - инвентарь с айпи виртуальных машин
-playbook.yml - плейбук с использоанием роли
-ЛАБ 6 Девопс Любов.docx - дополнительные скрины
+/roles/nginx-vhosts - папка с описаной ролью, где tasks - задачи, handlers - обработчики, templates - шаблоны  
+inventory.ini - инвентарь с айпи виртуальных машин  
+playbook.yml - плейбук с использоанием роли  
+ЛАБ 6 Девопс Любов.docx - дополнительные скрины  
 #Проверка запуска плейбука
 <img width="869" height="425" alt="image" src="https://github.com/user-attachments/assets/66c5a6cd-35bd-40ae-9604-f7df4be01d7b" />
 
