@@ -1,3 +1,4 @@
+.github/workflows - линтер и простой пайплайн
 /roles/nginx-vhosts - папка с описаной ролью, где tasks - задачи, handlers - обработчики, templates - шаблоны  
 inventory.ini - инвентарь с айпи виртуальных машин  
 playbook.yml - плейбук с использоанием роли  
